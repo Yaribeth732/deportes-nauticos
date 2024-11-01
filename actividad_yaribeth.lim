@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>yarirecursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>80FFFF</corfondo>
+        <corbanda>6262FF</corbanda>
+        <cornavega>6262FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>FFFFFF</cortexto>
+        <titulo>DEPORTES NAUTICOS</titulo>
+        <autor>YARIBETH SOLANO</autor>
+        <iden>2024164007</iden>
+        <logo>natacion.jpg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Eres muy inteligente</correcto>
+        <incorrecto son="" modo="1" >Sigue intentando</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>kaja.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="32"><b><i>Los deportes náuticos son actividades deportivas que se practican en el agua, como océanos, ríos, lagos y otros cuerpos de agua. Incluyen deportes como:</i></b><br>
+<br>
+<b><i>Natación en aguas abiertas: nadar largas distancias en el mar o ríos.</i></b><br>
+<b><i>Vela: navegar en embarcaciones impulsadas por el viento en velas.</i></b><br>
+<b><i>Surf: deslizarse sobre olas con una tabla.</i></b><br>
+<b><i>Windsurf: mezcla de vela y surf usando una tabla con una vela.</i></b><br>
+<b><i>Kayak y piragüismo: remar en pequeñas embarcaciones.</i></b><br>
+<b><i>Esquí acuático: esquiar sobre el agua siendo arrastrado por una lancha.</i></b><br>
+<b><i>Buceo y snorkel: explorar el fondo marino o nadar bajo la superficie.</i></b><br>
+<b><i>Estos deportes destacan por su conexión con la naturaleza y la habilidad física que requieren.</i></b><br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>FFFFFF</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="kaja.jpg">KAJAK</sopa>
+              <sopa enun="rolling.jpg">VELA</sopa>
+              <sopa enun="surf.jpg">SURF</sopa>
+              <sopa enun="">SKI</sopa>
+              <sopa enun="natacion.jpg">NATACION</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="KAJAK">kaja.jpg</cousa>
+              <cousa nome="NATACION">natacion.jpg</cousa>
+              <cousa nome="ROLLING">rolling.jpg</cousa>
+              <cousa nome="SKI">ski.jpg</cousa>
+              <cousa nome="SURF">surf.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <imaxe>kaja.jpg</imaxe>
+              <texto><![CDATA[¿En qué deporte náutico usas un remo y una pequeña embarcación para moverte por el agua?]]></texto>
+              <resp texto="AJK">KAJAK</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>17</tipo>
+              <parellas>kaja.jpg</parellas>
+              <parellas>natacion.jpg</parellas>
+              <parellas>rolling.jpg</parellas>
+              <parellas>ski.jpg</parellas>
+              <parellas>surf.jpg</parellas>
+              <cfondo>80FF80</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>20</tempo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <imaxe>kaja.jpg</imaxe>
+              <imfondo  trans="50">kaja.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>6</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>51</tipo>
+              <valor>6</valor>
+              <peza imaxe="natacion.jpg">1</peza>
+              <peza imaxe="rolling.jpg">2</peza>
+              <forma>1</forma>
+              <modo>1</modo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>38</tipo>
+              <imaxe>surf.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="32"><b><i>CONCLUSION</i></b><br>
+<b><i>Los juegos náuticos son una excelente manera de disfrutar el agua, promoviendo la actividad física, la destreza y el contacto con la naturaleza. Además de ser entretenidos, fortalecen el cuerpo y la mente, fomentando la concentración, el trabajo en equipo y el respeto por el entorno acuático. En sus distintas formas, estos deportes brindan experiencias únicas y desafíos, haciendo que cada práctica sea emocionante y beneficiosa.</i></b><br>
+</font></p>
+]]></texto>
+              <ctexto>FFFFFF</ctexto>
+        </paxina>
+    </libro>
+</lim>
